@@ -14,6 +14,7 @@ The GitHub repo for the Gravegirl Advanced Topics class project. This project is
 # Teams
  - Management Bros
   - Jeff Reiner
+  - Darien Harrison
  - Sound Bros
  - Music Bros
  - Dev Bros
